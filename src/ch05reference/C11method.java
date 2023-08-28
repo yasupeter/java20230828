@@ -15,6 +15,8 @@ public class C11method {
 		
 		System.out.println("method1 내부");
 		System.out.println(System.identityHashCode(c));
+
+		return c;
 	}
 	
 	
