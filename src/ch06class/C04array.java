@@ -7,7 +7,7 @@ public class C04array {
         System.out.println("a[0]="+ a[0]);
 
         a= method1();
-        System.out.println("a[0]="+ a[0]);   // 3? 22?
+        System.out.println("a[0]="+ a[0]);   // 3? 22? A) 22
     }
 
     public static int[] method1() {
