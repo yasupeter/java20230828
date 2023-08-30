@@ -8,10 +8,15 @@ public class C03reference {
 		String c = "java";
 		String d = c;
 		
-		System.out.println(a==b);  // true
-		System.out.println(d==c);  // true
+		System.out.println(a == b); // true
+		System.out.println(d == c); // true
+		
 		
 		
 	}
-
 }
+
+
+
+
+

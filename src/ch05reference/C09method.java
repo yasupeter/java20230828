@@ -12,9 +12,7 @@ public class C09method {
 		
 	}
 	
-	public static void method1 (int p) {
+	public static void method1(int p) {
 		System.out.println(p);
 	}
-	
-
 }

@@ -24,7 +24,7 @@ class MyClass05 {
     int age;
 
     // static field, class field, 정적필드
-    static String model;
-
+    static String model; 
+    
     // 기능
 }
