@@ -1,4 +1,4 @@
-package ch05reference.book;
+package ch05reference;
 
 public class C10method {
 	public static void main(String[] args) {

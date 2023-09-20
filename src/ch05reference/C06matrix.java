@@ -1,4 +1,4 @@
-package ch05reference.book;
+package ch05reference;
 
 public class C06matrix {
 	public static void main(String[] args) {
