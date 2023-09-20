@@ -1,4 +1,4 @@
-package ch05reference;
+package ch05reference.book;
 
 public class C01primitive {
 	public static void main(String[] args) {
